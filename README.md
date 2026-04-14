@@ -22,11 +22,6 @@ The app allows you to export your medication schedule as a PDF. This file is gen
 
 The app does not integrate with or send data to any third-party services, advertising networks, or analytics platforms.
 
-## Children's Privacy
-
-We do not knowingly collect any information from anyone, including children under the age of 13.
-
 ## Changes to This Policy
-
 If we make changes to this privacy policy, the updated version will be posted on this page with a revised date.
 
