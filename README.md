@@ -30,6 +30,3 @@ We do not knowingly collect any information from anyone, including children unde
 
 If we make changes to this privacy policy, the updated version will be posted on this page with a revised date.
 
-## Contact
-
-If you have any questions about this privacy policy, you can reach us at [your@email.com](mailto:your@email.com).
